@@ -41,9 +41,8 @@ public class ServletReportes extends HttpServlet {
     Connection con = c.getConexion();
     
     public static final String RUTA_FICHERO = "C:\\Users\\USER\\Documents\\"
-            + "NetBeansProjects\\Web\\src\\java\\com\\"
-            + "pepito\\manejopersonal\\reportes\\vehiculo"
-            + "\\ReporteVehiculo.jasper";
+            + "NetBeansProjects\\Proyecto_Formularios\\src\\java\\com"
+            + "\\pepito\\manejopersonal\\reportes\\vehiculo\\ReporteVehiculo.jasper";
     public static final String RUTA = "\\com\\pepito\\manejopersonal"
             + "\\reportes\\vehiculo\\ReporteVehiculo.jasper";
 
